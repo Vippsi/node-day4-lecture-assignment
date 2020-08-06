@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Vippsi/node-day4-lecture-assignment#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1"
   }
 }
